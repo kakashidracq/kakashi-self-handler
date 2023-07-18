@@ -1,5 +1,5 @@
 {
-  "name": "kakashi-self-handler",
+  "name": "@kakashidracq/kakashi-self-handler",
   "version": "0.0.0-beta",
   "description": "package handler for kakashi bot",
   "main": "src/index.js",
