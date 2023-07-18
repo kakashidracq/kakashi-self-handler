@@ -1,0 +1,27 @@
+{
+  "name": "kakashi-self-handler",
+  "version": "0.0.0-beta",
+  "description": "package handler for kakashi bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kakashidracq/kakashi-self-handler.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "kakashi-handler"
+  ],
+  "author": "KAKASHI#3709",
+
+  "homepage": "https://github.com/kakashidracq/kakashi-self-handler#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.6.0",
+    "mongoose": "^6.7.3",
+    "path": "^0.12.7"
+  }
+}
