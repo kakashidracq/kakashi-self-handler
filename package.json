@@ -1,0 +1,24 @@
+{
+  "name": "kakashi-self-handler",
+  "version": "2.1.0",
+  "description": "package handler for discord bot",
+  "main": "src/index.js",
+  "keywords": [
+    "discord.js",
+    "discord v14",
+    "discord handler",
+    "discord version 14",
+    "discord button handler",
+    "discord cooldown",
+    "discord vote only",
+    "topgg"
+  ],
+  "author": "KAKASHI#3709",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.6.0",
+    "mongoose": "^6.7.3",
+    "path": "^0.12.7",
+    "topgg-votes": "^2.2.1"
+  }
+}
